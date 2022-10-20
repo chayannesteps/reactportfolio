@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.939ef788.css",
+    "main.js": "/react-gh-pages/static/js/main.c4719920.js",
+    "static/js/787.e29dc422.chunk.js": "/react-gh-pages/static/js/787.e29dc422.chunk.js",
+    "static/media/headshot.jpg": "/react-gh-pages/static/media/headshot.662d5c03f40a69a61ca0.jpg",
+    "static/media/gmaillogo.jpg": "/react-gh-pages/static/media/gmaillogo.d802ff7994b892556c59.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.939ef788.css.map": "/react-gh-pages/static/css/main.939ef788.css.map",
+    "main.c4719920.js.map": "/react-gh-pages/static/js/main.c4719920.js.map",
+    "787.e29dc422.chunk.js.map": "/react-gh-pages/static/js/787.e29dc422.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.939ef788.css",
+    "static/js/main.c4719920.js"
+  ]
+}
