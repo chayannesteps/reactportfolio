@@ -1,38 +1,116 @@
-.App {
-  text-align: center;
+@import url("https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@300&display=swap");
+
+* {
+    box-sizing: border-box;
+    font-family: 'Yanone Kaffeesatz', sans-serif; 
+    color: #592500 ;
+    
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #d2b48c;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.nav ul {
+    margin: 0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.nav li {
+    display:inline;
 }
 
-.App-link {
-  color: #61dafb;
+.nav a {
+    display: inline-block;
+    padding: .5em;
+    text-decoration: none;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.nav h2 {
+    display: inline-block;
+    color: beige;
+    font-weight: lighter;
+
+}
+
+.nav a:hover {
+    background-color: rgba(255, 255, 255, .3);
+}
+
+.main-nav {
+    text-align: center;
+    font-size: 1.5em;
+    /* border-bottom: 1px solid rgba(255, 255, 255, .3); */
+}
+
+.header-background {
+    background-color:rgba(204, 85, 0, .6);
+    /* background-image: url(img/brown\ computer\ aesthetic.jpeg); */
+    background-blend-mode: multiply;
+    /* background-size: cover; */
+    padding-bottom: 30px;
+}
+
+.intro-name {
+    text-align: center;
+    margin: 0;
+    font-size: 2em;
+}
+
+.intro-name-large {
+    font-size: 6em;
+}
+
+.about-me-section {
+    margin: 1em;
+}
+
+.container {
+    max-width: 900px;
+    /* margin: ; */
+    padding: 0 1em;
+}
+
+.section-headers {
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.headshot {
+    float: left;
+    height:350px;
+    width: 200px;
+    margin: 15px;
+    border-radius: 50%;
+}
+
+.content {
+    font-size: 2em;
+    text-align: center;
+}
+
+.main-footer {
+    background-color: rgb(204, 85, 0, .6);
+    padding: .25em 0;
+}
+
+.main-footer-container {
+    display: flex;
+    align-items: center;
+}
+
+.main-footer-container ul {
+    flex-grow: 1;
+    text-align: end;
+}
+
+.footer-nav a {
+    padding: 0 .5em;
+}
+
+.footer-nav img {
+    width: 80px;
+    height:80px;
 }
