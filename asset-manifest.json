@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.939ef788.css",
-    "main.js": "/react-gh-pages/static/js/main.c4719920.js",
-    "static/js/787.e29dc422.chunk.js": "/react-gh-pages/static/js/787.e29dc422.chunk.js",
-    "static/media/headshot.jpg": "/react-gh-pages/static/media/headshot.662d5c03f40a69a61ca0.jpg",
-    "static/media/gmaillogo.jpg": "/react-gh-pages/static/media/gmaillogo.d802ff7994b892556c59.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.939ef788.css.map": "/react-gh-pages/static/css/main.939ef788.css.map",
-    "main.c4719920.js.map": "/react-gh-pages/static/js/main.c4719920.js.map",
-    "787.e29dc422.chunk.js.map": "/react-gh-pages/static/js/787.e29dc422.chunk.js.map"
+    "main.css": "/reactportfolio/static/css/main.939ef788.css",
+    "main.js": "/reactportfolio/static/js/main.8c0beb81.js",
+    "static/js/787.e29dc422.chunk.js": "/reactportfolio/static/js/787.e29dc422.chunk.js",
+    "static/media/headshot.jpg": "/reactportfolio/static/media/headshot.662d5c03f40a69a61ca0.jpg",
+    "static/media/gmaillogo.jpg": "/reactportfolio/static/media/gmaillogo.d802ff7994b892556c59.jpg",
+    "index.html": "/reactportfolio/index.html",
+    "main.939ef788.css.map": "/reactportfolio/static/css/main.939ef788.css.map",
+    "main.8c0beb81.js.map": "/reactportfolio/static/js/main.8c0beb81.js.map",
+    "787.e29dc422.chunk.js.map": "/reactportfolio/static/js/787.e29dc422.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.939ef788.css",
-    "static/js/main.c4719920.js"
+    "static/js/main.8c0beb81.js"
   ]
 }
